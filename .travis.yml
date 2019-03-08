@@ -6,6 +6,6 @@ install:
   - pip install requests
   - pip install pymsgbox
   - pip install selenium
-script: python healthverity_eval.py
+script: python "Creating a Python List or Tuple.py"
 after_success:
   - 
